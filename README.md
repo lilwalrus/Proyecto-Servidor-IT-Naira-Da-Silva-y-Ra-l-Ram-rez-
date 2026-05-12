@@ -8,3 +8,5 @@
   - Creación Wazuh desde cero
   - Creación desde cero de un cortafuegos (beelink) con creación de opnsense.
 https://youtu.be/YZFJJDdT_FM
+- Última revisión de Proyecto: https://youtu.be/_-pwZuOKRis
+  
