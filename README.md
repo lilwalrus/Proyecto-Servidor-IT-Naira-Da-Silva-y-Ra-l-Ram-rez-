@@ -11,4 +11,6 @@ https://youtu.be/YZFJJDdT_FM
 - Última revisión de Proyecto: https://youtu.be/_-pwZuOKRis
 - Presentación Final Proyecto: https://youtu.be/w1Oek9-SkKY
 - Video FFEOE: https://youtu.be/pDL4bwfj2_U
+
+- Presentación Power Point: https://docs.google.com/presentation/d/1hTwGn8E6hHlcWALX-0WhNkunt2TdaWOX/edit?usp=drivesdk&ouid=107750190649548533198&rtpof=true&sd=true
   
