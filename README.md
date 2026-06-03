@@ -9,4 +9,6 @@
   - Creación desde cero de un cortafuegos (beelink) con creación de opnsense.
 https://youtu.be/YZFJJDdT_FM
 - Última revisión de Proyecto: https://youtu.be/_-pwZuOKRis
+- Presentación Final Proyecto: https://youtu.be/w1Oek9-SkKY
+- Video FFEOE: https://youtu.be/pDL4bwfj2_U
   
